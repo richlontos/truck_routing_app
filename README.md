@@ -5,8 +5,8 @@ This is a web application that helps truck drivers to plan their routes. The app
 ![Screenshot of the app](screenshot1.jpg)
 ![Screenshot of the app](screenshot2.jpg)
 
-<img src="screenshot1.png" alt="Screenshot of the app" width="500">
-<img src="screenshot2.png" alt="Screenshot of the app" width="500">
+<img src="screenshot1.jpg" alt="Screenshot of the app" width="500">
+<img src="screenshot2.jpg" alt="Screenshot of the app" width="500">
 
 ## Features
 
