@@ -2,8 +2,6 @@
 
 This is a web application that helps truck drivers to plan their routes. The application uses the Google Maps API to calculate routes between start and end points that the user inputs. 
 
-![Screenshot of the app](screenshot1.jpg)
-![Screenshot of the app](screenshot2.jpg)
 
 <img src="screenshot1.jpg" alt="Screenshot of the app" width="500">
 <img src="screenshot2.jpg" alt="Screenshot of the app" width="500">
