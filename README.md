@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
+1. Clone the repository: `git clone https://github.com/richlontos/truck_routing_app.git`
 2. Navigate into the project directory: `cd your-repo`
 3. Install dependencies: `composer install`
 4. Copy the .env.example file to .env and fill in your Google Maps API key
