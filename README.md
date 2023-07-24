@@ -5,6 +5,9 @@ This is a web application that helps truck drivers to plan their routes. The app
 ![Screenshot of the app](screenshot1.jpg)
 ![Screenshot of the app](screenshot2.jpg)
 
+<img src="screenshot1.png" alt="App Screenshot" width="500">
+<img src="screenshot2.png" alt="App Screenshot" width="500">
+
 ## Features
 
 - Calculate the best route between two points.
